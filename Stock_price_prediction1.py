@@ -1,6 +1,5 @@
-# ================================
-# Stock Price Trend Prediction - Mini Project
-# ================================
+
+# Stock Price Trend Prediction - Mini Project - Code
 
 # 1️ Import Libraries
 import pandas as pd
@@ -122,3 +121,4 @@ example_pred = model.predict(example)
 print("\nPredicted Trend for Example Input:", example_pred[0])
 
 print("\nProject Execution Completed Successfully!")
+
